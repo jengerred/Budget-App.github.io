@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budget App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Budget App</h1>
+    <div class="container">
+        
+          <!--<div class="form-group">-->
+            
+               <div class="col">
+                <form oninput="res.value=(BigInt(a.value)-BigInt(b.value)-BigInt(c.value)-BigInt(d.value)-BigInt(e.value)-BigInt(f.value));">  
+                   
+                   <div id="FormData">
+                        <label class="Income">Income:</label> 
+                    <input type="number" id="a" name="qty" value=""/> 
+               </div>
+            <!--</div>-->
+            <div class="row"> 
+                    <label class="Rent">Rent:</label> 
+                    <input class="rent" type="number"  id="b" name="qty"value=""/> 
+                   
+                    <label class="Groceries">Groceries:</label>   
+                    <input class="groceries" type="number"  id="c" name="qty"  value=""> 
+                
+
+                <label class="Utilities">Utilities:</label>  
+                <input class= "utilities" type="number" id="d" name="qty"  value=""> 
+               
+              
+           
+                <label class="Phone">Phone:</label>  
+                <input class="phone" type="number" id="e" name="qty"  value=""> 
+   
+
+                <label class="Misc">Misc:</label>  
+                <input class="misc" type="number" id="f" name="qty"  value="">
+                </div>
+            </div>
+           <!--<button type="submit" class="submit-button" name="Submit">Submit</button>
+           <br>-->
+        <div class="Res">  
+       Your Budget Results:&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp $
+        <output type="number" class="res" id="res" name="res"></output></div>
+
+
+        </form>
+     
+
+<script src="app.js"></script>
+
+</body>
+</html>

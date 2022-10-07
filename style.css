@@ -1,0 +1,83 @@
+.container {
+    background-color: white;
+    max-width: 95%;
+    height: 60vh;
+box-shadow: 0px 20px 20px black;
+}
+h1 {
+    margin-left: 20px;
+}
+
+.Income {
+margin-left: 20px;
+}
+
+.Rent {
+top: 10px;
+margin-top: 10px;
+
+}
+.rent {
+    width: 60px;
+}
+.Groceries {
+    margin-left: 10px;
+ 
+}
+.groceries {
+    width: 60px;
+}
+ .Utilities {
+    margin-left: 10px;
+  
+ }
+ .utilities {
+    width: 60px;
+ }
+
+ .Phone {
+    margin-left: 10px;
+
+ }
+ .phone {
+    width: 60px;
+ }
+
+ .Misc {
+    margin-left: 10px;
+   
+ }
+ .misc {
+    width: 60px;
+ }
+
+ .submit-button{
+     margin-top: 20px;
+     margin-left: 640px;
+     width: 100px;
+ }
+
+ .Container {
+     margin-top: 20px;
+     margin-left: 20px;
+     height: 300px;
+ }
+.Res {
+    margin-left: 20px;
+    margin-top: 100px;
+    font-size: 20px;
+}
+ .res{
+   
+     color: rgb(73, 227, 73);
+     text-shadow: 1px 1px 0px black;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 40px;
+ }
+
+ .row {
+     margin:20px;
+     margin-top: 60px;
+     width: 800px;
+     margin-left: 20px;
+ }
