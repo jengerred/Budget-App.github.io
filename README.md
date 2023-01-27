@@ -2,20 +2,12 @@
 simple budget app
 No TUTORIAL for this! I coded this completely myself!
 ## Description:
-
+I created a page that is a simple budget form. It takes the input and prints the results onto the browser. No tutorial needed! This was a great project for working with input, output and getting the sum as the result. It is very easy to use.
 ## How to Run:  
-Simply open the page, read the game rules and click play. You can enter your name(s) and begin playing. 
-
-Game Rules:
-- click "New Game" to begin.
-- 2 players will take turns to roll the dice
-- The player must choose if they would like to hold their score or risk rolling a one, and roll again.
-- if a player rolls a 1, no points will be added and it will be the next players turn.
-
-Win: First player to score 100 total points
+Open the page and input amounts as you see fit. 
 
 ## Roadmap of future improvements:: 
-I would like to make the dice 3d and give them a spinning affect, I would also like to display the dice when a player rolls a one.
+I would like to add some componeents and fix the styling. 
 
 ## License information: 
 MIT License
