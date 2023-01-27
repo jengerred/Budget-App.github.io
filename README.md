@@ -1,4 +1,4 @@
-# Budget-App.github.io
+# Budget-App
 
 ## Description:
 I created a page that is a simple budget form. It takes the input and prints the results onto the browser. No tutorial needed! This was a great project for working with input, output and getting the sum as the result. It is very easy to use.
